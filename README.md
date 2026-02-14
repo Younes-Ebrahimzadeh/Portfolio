@@ -11,13 +11,21 @@ Here are some samples of my technical writing and user-focused documentation for
 - **[NamiraSoft Bill Watch Formula List](https://namirasoft.com/bill-watch/formula-list/)** – Guide for formulas used in Bill Watch.  
 - **[NamiraSoft Bill Watch Formula – Amount by Last](https://namirasoft.com/bill-watch/formula-list/amount-by-last/)** – Detailed instructions for a specific formula.
 
+- ### NamiraSoft Infra
+- **[NamiraSoft Infra Console Guide (Kubernetes)](https://namirasoft.com/infra/console-guide/kubernetes/)** – Technical instructions for Kubernetes users.  
+- **[NamiraSoft Infra Console Guide – Alerts](https://namirasoft.com/infra/console-guide/alert/)** – Guide for alert setup and monitoring.
+
+- ### NamiraSoft Telegram Sender, Slack Sender & Teams Sender
+- **[NamiraSoft Telegram Sender – How It Works](https://namirasoft.com/telegram-sender/how-it-works/)** – Overview of Telegram Sender setup.
+- **[NamiraSoft How to Find Telegram Chat ID via API](https://namirasoft.com/telegram-sender/how-to-find-chat-id-using-api/)** – Step-by-step instructions.  
+- **[NamiraSoft Slack Sender – How It Works](https://namirasoft.com/slack-sender/how-it-works/)** – Overview of Slack Senedr setup.  
+- **[NamiraSoft How to Get Slack Bot Token](https://namirasoft.com/slack-sender/how-to-get-slack-bot-token/)** – Step-by-step instructions.  
+- **[NamiraSoft Teams Sender – How It Works](https://namirasoft.com/teams-sender/how-it-works/)** – Overview of Teams Sender setup.  
+- **[NamiraSoft How to Get Teams and Channel ID](https://namirasoft.com/teams-sender/how-to-get-teams-and-channel-id/)** – Step-by-step guide for Teams setup.
+
 ### NamiraSoft Cloud Platform & Services
 - **[NamiraSoft Services](https://namirasoft.com/services/)** – Service descriptions and application documentation.  
 - **[NamiraSoft Cloud Platform](https://namirasoft.com/namirasoft-cloud-platform/landing/)** – Overview and user guide for the cloud platform.  
-
-### NamiraSoft Infra
-- **[NamiraSoft Infra Console Guide (Kubernetes)](https://namirasoft.com/infra/console-guide/kubernetes/)** – Technical instructions for Kubernetes users.  
-- **[NamiraSoft Infra Console Guide – Alerts](https://namirasoft.com/infra/console-guide/alert/)** – Guide for alert setup and monitoring.
 
 ### NamiraSoft Credentials & Secret
 - **[NamiraSoft Credentials Overview](https://namirasoft.com/credential/)** – Instructions and guidance for account and access management.  
@@ -25,12 +33,6 @@ Here are some samples of my technical writing and user-focused documentation for
 - **[NamiraSoft How to Get Client ID and Tenant ID](https://namirasoft.com/credential/how-to-get-client-id-and-tenant-id/)** – Clear, user-focused guidance for application setup.  
 - **[NamiraSoft Secret Platform Security](https://namirasoft.com/secret/security/)** – Security instructions and best practices.  
 - **[NamiraSoft Secret Console Guide](https://namirasoft.com/secret/console-guide/secret/)** – Step-by-step instructions for using the Secret console.
-
-### NamiraSoft Slack Sender & Teams Sender
-- **[NamiraSoft Slack Sender – How It Works](https://namirasoft.com/slack-sender/how-it-works/)** – Overview of Slack integration features.  
-- **[NamiraSoft How to Get Slack Bot Token](https://namirasoft.com/slack-sender/how-to-get-slack-bot-token/)** – Step-by-step instructions.  
-- **[NamiraSoft Teams Sender – How It Works](https://namirasoft.com/teams-sender/how-it-works/)** – Overview of Teams integration features.  
-- **[NamiraSoft How to Get Teams and Channel ID](https://namirasoft.com/teams-sender/how-to-get-teams-and-channel-id/)** – Step-by-step guide for Teams setup.
 
 ### NamiraSoft Password Tools & Extensions
 - **[NamiraSoft Password Platform](https://namirasoft.com/password/)** – Instructions and documentation for password management.  
@@ -40,10 +42,13 @@ Here are some samples of my technical writing and user-focused documentation for
 - **[NamiraSoft Job Arranger](https://namirasoft.com/job-arranger/landing/)** – Landing page and user guide for the Job Arranger platform.
 
 ## Skills
-- Technical writing for software and digital tools  
-- User-focused documentation and guides  
-- Clear, structured, and reader-friendly communication  
-- SEO-friendly content and instructional materials
+-Technical documentation for SaaS & cloud platforms
+-Step-by-step console guides (AWS, Kubernetes, APIs)
+-API-based instructional writing
+-DevOps & cloud ecosystem documentation
+-User onboarding documentation
+-SEO-optimized technical content
+-Structured information architecture
 
 
 
