@@ -1,28 +1,34 @@
-Younes Ebrahimzadeh
-Technical Writer | SaaS, Cloud & DevOps Documentation
+# Younes Ebrahimzadeh
 
-I write user-focused documentation for SaaS products, cloud platforms, DevOps workflows, onboarding flows, integrations, and operational systems.
+### **Technical Writer | SaaS, Cloud & DevOps Documentation**
 
-My work includes console guides, setup instructions, integration documentation, credential and security guidance, workflow explanations, DevOps-related system communication, knowledge base content, and product-related communication for technical platforms.
+I write user-focused documentation for SaaS products, cloud platforms, onboarding systems, integrations, and operational environments.
 
-I have worked with WordPress, GitLab, Redmine, and HTML-based publishing workflows, including structured documentation layouts and visual content designed to improve clarity and usability.
+My work includes console guides, setup instructions, integration documentation, credential and security guidance, operational flow explanations, knowledge base content, and product communication for technical platforms.
 
-Featured Projects
-NamiraSoft Expert
+I have experience communicating infrastructure and DevOps-related workflows to operational users through structured, accessible documentation.
+
+I have worked with WordPress, GitLab, Redmine, and HTML-based publishing workflows, including structured documentation layouts and visual components designed to improve clarity and usability.
+
+---
+
+# Featured Projects
+
+## NamiraSoft Expert
 
 Documentation and product communication for an AI-driven infrastructure investigation platform focused on infrastructure analysis and operational workflows.
 
-Work included:
+Contributions included:
 
-onboarding and workflow explanation
-infrastructure investigation guidance
-platform coverage explanation
-HTML-based content and structured visual layouts
-landing and support content
-workflow-focused product communication
-DevOps-related workflow explanation for operational users
+* onboarding and operational flow explanation
+* infrastructure investigation guidance
+* platform coverage explanation
+* HTML-based content and structured visual components that made investigation and coverage flows easier to understand
+* landing and support content
+* workflow-focused product communication
 
-Pages:
+Key Pages:
+
 https://namirasoft.com/expert/
 
 https://namirasoft.com/expert/landing/
@@ -33,37 +39,41 @@ https://namirasoft.com/expert/coverage/
 
 https://namirasoft.com/expert/coverage/server/
 
-Infrastructure & Monitoring Documentation
+---
 
-Documentation for infrastructure monitoring systems, Kubernetes-related workflows, and operational guidance.
+## Infrastructure & Monitoring Documentation
+
+Documentation for connecting infrastructure to Namirasoft Infra.
 
 Work included:
 
-console guides
-monitoring setup documentation
-alert configuration guidance
-operational workflow documentation
-DevOps-related explanation for infrastructure users
+* console guides
+* monitoring setup documentation
+* alert configuration guidance
+* operational process documentation
 
-Sample Pages:
+Selected Pages:
+
+https://namirasoft.com/infra
+
 https://namirasoft.com/infra/console-guide/kubernetes/
 
-https://namirasoft.com/infra/console-guide/alert/
+---
 
-Bill Watch Documentation
+## Namirasoft Bill Watch Documentation
 
-Documentation and onboarding content for a cloud cost monitoring and operational analytics platform.
+Documentation and onboarding content for a cloud cost monitoring platform.
 
-Work included:
+Contributions included:
 
-AWS onboarding documentation
-workflow guidance
-formula and reference documentation
-pricing and feature explanation
-product communication content
-voice-over video support for product explanation
+* AWS onboarding documentation
+* user process guidance
+* formula and reference documentation
+* pricing and feature explanation
+* product communication content
 
-Sample Pages:
+Pages:
+
 https://namirasoft.com/bill-watch/
 
 https://namirasoft.com/bill-watch/console-guide/aws/
@@ -75,14 +85,19 @@ https://namirasoft.com/bill-watch/formula/amount-by-last/
 https://namirasoft.com/bill-watch/pricing/
 
 Related Content:
+
 https://youtu.be/h6uvGwIjXlg?si=6yU99tgU51T0oxHA
 
-Additional Documentation Work
-Integration & Credential Documentation
+---
 
-Documentation for Telegram, Slack, Microsoft Teams, authentication systems, and platform connectivity workflows.
+# Additional Documentation Work
 
-Sample Pages:
+## Integration & Credential Documentation
+
+Documentation for Telegram, Slack, Microsoft Teams, authentication systems, and platform connectivity processes.
+
+Selected Pages:
+
 https://namirasoft.com/telegram-sender/how-it-works/
 
 https://namirasoft.com/telegram-sender/how-to-find-chat-id-using-api/
@@ -95,18 +110,23 @@ https://namirasoft.com/credential/how-to-get-client-id-and-tenant-id/
 
 https://namirasoft.com/credential/how-to-create-aws-access-keys/
 
-Security & Governance Documentation
+---
+
+## Security & Governance Documentation
 
 Documentation related to credential management, security workflows, privacy guidance, and platform governance.
 
-Sample Pages:
+Pages:
+
 https://namirasoft.com/secret/security/
 
 https://namirasoft.com/secret/console-guide/
 
 https://namirasoft.com/account/privacy/
 
-Additional Product & Platform Documentation
+---
+
+## Additional Product & Platform Documentation
 
 https://namirasoft.com/services/
 
@@ -118,18 +138,26 @@ https://namirasoft.com/password/chrome-extension/
 
 https://namirasoft.com/job-arranger/
 
-Tools & Workflow
-WordPress
-GitLab
-Redmine
-HTML
-AI-assisted documentation workflows
-Background
+---
 
-Background in linguistics, communication, and education with experience simplifying complex information for different types of users.
+# Tools & Workflow
 
-This background supports my approach to technical writing, onboarding communication, DevOps-related explanation, workflow explanation, and documentation clarity.
+* WordPress
+* GitLab
+* Redmine
+* HTML
+* AI-assisted documentation workflows
 
-Contact
+---
 
-Email: Yones.ebrahimzadeh@yahoo.com
+# Background
+
+Background in linguistics, communication, and education with experience simplifying complex technical information for different types of users.
+
+This background supports my approach to technical writing, onboarding communication, operational documentation, and documentation clarity.
+
+---
+
+# Contact
+
+Email: Yones.Ebrahimzadeh@yahoo.com 
