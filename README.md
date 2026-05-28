@@ -1,10 +1,10 @@
 # Younes Ebrahimzadeh
 
-### **Technical Writer | SaaS, Cloud & DevOps Documentation**
+### **Technical Writer for SaaS, Cloud & Operational Platforms**
 
-I write user-focused documentation for SaaS products, cloud platforms, onboarding systems, integrations, and operational environments.
+I write user-focused documentation for SaaS products, cloud platforms, onboarding systems, integrations, and infrastructure-related workflows.
 
-My work includes console guides, setup instructions, integration documentation, credential and security guidance, operational flow explanations, knowledge base content, and product communication for technical platforms.
+My work includes console guides, setup instructions, integration documentation, credential and security guidance, operational flow explanations, knowledge base content, and product communication for technical products and operational tools.
 
 I have experience communicating infrastructure and DevOps-related workflows to operational users through structured, accessible documentation.
 
@@ -16,7 +16,7 @@ I have worked with WordPress, GitLab, Redmine, and HTML-based publishing workflo
 
 ## NamiraSoft Expert
 
-Documentation and product communication for an AI-driven infrastructure investigation platform focused on infrastructure analysis and operational workflows.
+Documentation and product communication for an infrastructure investigation platform focused on operational analysis and investigation workflows.
 
 Contributions included:
 
@@ -54,15 +54,15 @@ Work included:
 
 Selected Pages:
 
-https://namirasoft.com/infra
-
 https://namirasoft.com/infra/console-guide/kubernetes/
+
+https://namirasoft.com/infra/console-guide/alert/
 
 ---
 
 ## Namirasoft Bill Watch Documentation
 
-Documentation and onboarding content for a cloud cost monitoring platform.
+Documentation and onboarding content for a cloud cost monitoring and operational analytics platform.
 
 Contributions included:
 
@@ -160,4 +160,4 @@ This background supports my approach to technical writing, onboarding communicat
 
 # Contact
 
-Email: Yones.Ebrahimzadeh@yahoo.com 
+Email: Yones.Ebrahimzadeh@yahoo.com
