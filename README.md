@@ -123,6 +123,8 @@ WordPress · GitLab · Redmine · Information Architecture · Technical Document
 
 ## Contact
 
+LinkedIn: https://www.linkedin.com/in/younes-ebrahimzadeh-372a52156
+
 Email: [yones.ebrahimzadeh@yahoo.com](mailto:yones.ebrahimzadeh@yahoo.com)
 
 GitHub: https://github.com/Younes-Ebrahimzadeh
