@@ -6,19 +6,6 @@ Sole documentation owner for a B2B SaaS platform spanning 15+ products, covering
 
 ---
 
-## Scope
-
-|                                       |                          |
-| ------------------------------------- | ------------------------ |
-| Products documented                   | 15+                      |
-| Field-level configuration definitions | 100+                     |
-| Linux distributions & versions        | 7 distros · 30+ versions |
-| AWS cost monitoring dimensions        | 11                       |
-| Anomaly detection formulas            | 16 across 4 categories   |
-| Kubernetes authentication methods     | 9                        |
-
----
-
 ## Documentation Specialties
 
 * SaaS Product Documentation
