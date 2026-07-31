@@ -24,7 +24,7 @@ This portfolio showcases selected documentation projects created for the Namiras
 
 These projects best represent my work as a technical writer and documentation specialist.
 
-## 🚀 Product Communication
+## Product Communication
 
 ### Expert Landing Page
 
@@ -41,7 +41,7 @@ https://namirasoft.com/expert/landing/
 
 ## 📖 Product Walkthrough
 
-### Expert — How It Works
+### Expert - How It Works
 
 https://namirasoft.com/expert/how-it-works/
 
@@ -70,7 +70,7 @@ https://namirasoft.com/nws-volume/console-guide/volume/
 
 ---
 
-## 📊 Technical Concepts
+## Technical Concepts
 
 ### Formula Library
 
