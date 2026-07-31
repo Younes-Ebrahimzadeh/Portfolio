@@ -1,130 +1,189 @@
 # Younes Ebrahimzadeh
 
-**Technical Writer for B2B SaaS, Cloud & AI Systems**
+Technical Writer specializing in B2B SaaS products, AI platforms, cloud infrastructure, developer onboarding, and product documentation.
 
-Sole documentation owner for a B2B SaaS platform spanning 15+ products, covering infrastructure monitoring, cloud cost analytics, AI operations, authentication systems, credential management, and security tooling.
+This portfolio showcases selected documentation projects created for the Namirasoft platform. My work goes beyond writing documentation. I study products, validate workflows with engineers, design documentation structure, create onboarding experiences, write technical content, collaborate with designers on diagrams and layouts, and implement documentation pages using AI-assisted HTML/CSS workflows.
 
----
-
-## Documentation Specialties
-
-* SaaS Product Documentation
-* Infrastructure & Cloud Platforms
-* Configuration & Console Guides
-* Integration & Credential Management
-* Security & Governance Documentation
-* AI & Operational Systems
-
----
-
-## Featured Documentation
-
-The portfolio below contains documentation, onboarding flows, console guides, integration references, security documentation, and operational workflows written and maintained as the sole writer for the Namirasoft platform.
-
-### Namirasoft Expert - AI Infrastructure Investigation Agent
-
-An AI agent for SREs and DevOps teams that investigates infrastructure using live operational data and read-only diagnostic commands.
-
-| Page                                                                      | What It Covers                                             |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Main](https://namirasoft.com/expert/)                                    | Product overview                                           |
-| [How It Works](https://namirasoft.com/expert/how-it-works/)               | 8-step setup guide with inline field explanations          |
-| [Agent Console Guide](https://namirasoft.com/expert/console-guide/agent/) | 25+ configuration fields — type, purpose, context for each |
-| [Server Coverage](https://namirasoft.com/expert/coverage/server/)         | 7 Linux distributions, 30+ supported versions              |
-| [Pricing](https://namirasoft.com/expert/pricing/)                         | Freemium + AI model cost structure                         |
+> **My role throughout these projects**
+>
+> - Documentation strategy & information architecture
+> - Product and developer documentation
+> - Console guides & configuration documentation
+> - Landing pages & product communication
+> - Release notes
+> - "How It Works" walkthroughs
+> - Knowledge base articles
+> - Engineering collaboration & technical validation
+> - AI-assisted HTML/CSS implementation
+>
+> *Product illustrations and marketing graphics were created by the design team.*
 
 ---
 
-### Namirasoft Infra - Connecting Infrastructure 
+# Featured Work
 
-| Page                                                                               | What It Covers                                                            |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Server Console Guide](https://namirasoft.com/infra/console-guide/server/)         | 28 fields across configuration, metrics, and hardware — 3 cloud providers |
-| [Kubernetes Console Guide](https://namirasoft.com/infra/console-guide/kubernetes/) | 40+ fields, 9 authentication methods                                      |
-| [Connect Server](https://namirasoft.com/infra/connect-server/)                     | 5-step server connection with security token guidance                     |
-| [Alert Console Guide](https://namirasoft.com/infra/console-guide/alert/)           | Evaluation logic — operators, aggregators, sample sizes                   |
+These projects best represent my work as a technical writer and documentation specialist.
 
----
+## 🚀 Product Communication
 
-### Bill Watch - Cloud Cost Monitoring
+### Expert Landing Page
 
-| Page                                                                        | What It Covers                                                 |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Main](https://namirasoft.com/bill-watch/)                                  | Product overview                                               |
-| [AWS Console Guide](https://namirasoft.com/bill-watch/console-guide/aws/)   | IAM policy JSON, 11 monitoring dimensions, 5 cost metric types |
-| [Formula Library](https://namirasoft.com/bill-watch/formula-list/)          | 16 anomaly detection formulas across 4 statistical categories  |
-| [Amount by Last](https://namirasoft.com/bill-watch/formula/amount-by-last/) | Math notation + worked examples: anomaly / normal / skipped    |
-| [Pricing](https://namirasoft.com/bill-watch/pricing/)                       | Usage-based pricing explained                                  |
+https://namirasoft.com/expert/landing/
 
-[Video walkthrough](https://youtu.be/h6uvGwIjXlg?si=6yU99tgU51T0oxHA)
+**Highlights**
+
+- Planned the information hierarchy and page structure.
+- Explained complex AI capabilities for both technical and business audiences.
+- Wrote all product content.
+- Implemented and refined the page using AI-assisted HTML/CSS workflows.
 
 ---
 
-### Namirasoft Inference - AI Model Gateway
+## 📖 Product Walkthrough
 
-| Page                                                           | What It Covers                                          |
-| -------------------------------------------------------------- | ------------------------------------------------------- |
-| [Main](https://namirasoft.com/inference/)                      | Product overview                                        |
-| [How It Works](https://namirasoft.com/inference/how-it-works/) | Model selection, connection methods, and usage workflow |
-| [Pricing](https://namirasoft.com/inference/pricing/)           | Pricing models and cost calculations                    |
+### Expert — How It Works
 
----
+https://namirasoft.com/expert/how-it-works/
 
-### Integration & Credential Guides
+**Highlights**
 
-| Guide                                                                                             | What It Covers                                              |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [SSH Key Pair](https://namirasoft.com/credential/how-to-generate-ssh-key-pair/)                   | Windows, macOS, and Linux setup with passphrase guidance    |
-| [AWS Access Keys](https://namirasoft.com/credential/how-to-create-aws-access-keys/)               | IAM creation, permission scoping, and secret-key handling   |
-| [Azure Client & Tenant ID](https://namirasoft.com/credential/how-to-get-client-id-and-tenant-id/) | AAD app registration and credential extraction              |
-| [Telegram Chat ID](https://namirasoft.com/telegram-sender/how-to-find-chat-id-using-api/)         | API-based retrieval for chats, groups, channels, and topics |
-| [Slack Bot Token](https://namirasoft.com/slack-sender/how-to-get-slack-bot-token/)                | App creation, OAuth scopes, and token extraction            |
-| [Teams Channel ID](https://namirasoft.com/teams-sender/how-to-get-teams-and-channel-id/)          | Teams navigation and channel identification                 |
+- Designed the complete onboarding experience.
+- Broke product workflows into clear step-by-step explanations.
+- Collaborated on workflow diagrams.
+- Connected documentation with product onboarding.
 
 ---
 
-### Security & Governance
+## ⚙️ Console Documentation
 
-| Page                                                                 | What It Covers                                                        |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [Secret Security](https://namirasoft.com/secret/security/)           | Encryption vs. hashing — AES-256, SHA-256, bcrypt, and usage guidance |
-| [Secret Console Guide](https://namirasoft.com/secret/console-guide/) | Secrets management reference                                          |
-| [Privacy](https://namirasoft.com/account/privacy/)                   | Platform privacy documentation                                        |
+### NWS Volume Console Guide
 
----
+https://namirasoft.com/nws-volume/console-guide/volume/
 
-### Additional Products
+**Highlights**
 
-[Password Manager](https://namirasoft.com/password/) ·
-[Password Chrome Extension](https://namirasoft.com/password/chrome-extension/) ·
-[Job Arranger](https://namirasoft.com/job-arranger/) ·
-[Cloud](https://namirasoft.com/cloud/) ·
-[Services](https://namirasoft.com/services/)
+- Researched storage providers and their configuration requirements.
+- Documented every configuration field.
+- Added contextual guidance throughout the page.
+- Built searchable documentation for easier navigation.
+- Connected users to related documentation where appropriate.
 
 ---
 
-## Approach
+## 📊 Technical Concepts
 
-Before documenting features, I perform exploratory testing to verify workflows, configuration behavior, validation rules, and expected outcomes against actual product behavior.
+### Formula Library
 
-Every field definition answers three questions: what it is, what value to enter, and how to obtain that value.
+https://namirasoft.com/bill-watch/formula-list/
 
-Documentation is published and maintained through WordPress, with engineering collaboration managed through GitLab reviews and issue workflows.
+**Highlights**
 
-AI-augmented workflows accelerate drafting, publishing, and documentation maintenance while I retain ownership of information architecture, technical accuracy, terminology standards, and editorial decisions.
-
----
-
-## Tools
-
-WordPress · GitLab · Redmine · Information Architecture · Technical Documentation · AI-Augmented Workflows
+- Simplified statistical formulas into practical explanations.
+- Added worked examples.
+- Helped users understand anomaly detection without mathematical background.
 
 ---
 
-## Contact
+## ☁️ Cloud Integration
 
-LinkedIn: https://www.linkedin.com/in/younes-ebrahimzadeh-372a52156
+### AWS Console Guide
 
-Email: [yones.ebrahimzadeh@yahoo.com](mailto:yones.ebrahimzadeh@yahoo.com)
+https://namirasoft.com/bill-watch/console-guide/aws/
 
-GitHub: https://github.com/Younes-Ebrahimzadeh
+**Highlights**
+
+- Documented AWS IAM configuration.
+- Explained required permissions.
+- Guided users through cloud integration.
+- Connected AWS concepts with product workflows.
+
+---
+
+## 📝 Release Notes
+
+### Expert Release Notes
+
+https://namirasoft.com/release-notes/expert/
+
+**Highlights**
+
+- Documented product releases.
+- Summarized engineering changes.
+- Improved communication of new features.
+
+---
+
+# Developer Setup & Integration Guides
+
+These guides help users configure third-party platforms and obtain the credentials required to integrate them with Namirasoft products.
+
+| Guide | Demonstrates |
+|-------|--------------|
+| [SSH Key Pair](https://namirasoft.com/credential/how-to-generate-ssh-key-pair/) | Cross-platform SSH key generation and authentication |
+| [AWS Access Keys](https://namirasoft.com/credential/how-to-create-aws-access-keys/) | AWS IAM users, permissions, access keys, and secret management |
+| [Azure Client & Tenant ID](https://namirasoft.com/credential/how-to-get-client-id-and-tenant-id/) | Microsoft Entra ID application registration and authentication |
+| [Telegram Chat ID](https://namirasoft.com/telegram-sender/how-to-find-chat-id-using-api/) | Telegram Bot API configuration |
+| [Slack Bot Token](https://namirasoft.com/slack-sender/how-to-get-slack-bot-token/) | Slack App creation, OAuth scopes, and bot configuration |
+| [Microsoft Teams Channel ID](https://namirasoft.com/teams-sender/how-to-get-teams-and-channel-id/) | Teams and channel configuration |
+
+---
+
+# Security & Governance
+
+Selected documentation covering platform security, secrets management, privacy, and governance.
+
+- https://namirasoft.com/secret/security/
+- https://namirasoft.com/secret/console-guide/
+- https://namirasoft.com/account/privacy/
+- https://namirasoft.com/account/terms/
+
+---
+
+# Product Portfolio
+
+The projects above are selected examples.
+
+Documentation has been created across the complete Namirasoft ecosystem, including AI platforms, infrastructure monitoring, cloud services, automation, identity and access management, credential management, and enterprise software.
+
+Explore all products:
+
+https://namirasoft.com/products
+
+---
+
+# Documentation Process
+
+My documentation process begins before the writing starts.
+
+1. Understand the product.
+2. Explore and validate workflows.
+3. Work with engineers to confirm implementation details.
+4. Organize information into intuitive user journeys.
+5. Write and edit documentation.
+6. Collaborate with designers on layouts and diagrams.
+7. Implement pages using AI-assisted HTML/CSS workflows.
+8. Review, publish, and maintain documentation.
+
+---
+
+# Technologies
+
+**Documentation**
+
+Product Documentation • Developer Documentation • Console Guides • Knowledge Bases • Release Notes • Information Architecture
+
+**Publishing**
+
+WordPress • HTML • CSS • Markdown
+
+**Collaboration**
+
+GitLab • Redmine • Engineering Collaboration • Product Research
+
+**AI Workflows**
+
+Claude • ChatGPT • AI-assisted Documentation • AI-assisted HTML/CSS
+
+**Domains**
+
+B2B SaaS • AI Platforms • Cloud Infrastructure • Identity & Access Management • APIs • Developer Tools • Cryptocurrency & Blockchain
