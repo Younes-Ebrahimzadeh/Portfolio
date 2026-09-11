@@ -1,189 +1,45 @@
 # Younes Ebrahimzadeh
 
-Technical Writer specializing in B2B SaaS products, AI platforms, cloud infrastructure, developer onboarding, and product documentation.
+**Technical Writer | Information Architecture | Product Documentation**
 
-This portfolio showcases selected documentation projects created for the Namirasoft platform. My work goes beyond writing documentation. I study products, validate workflows with engineers, design documentation structure, create onboarding experiences, write technical content, collaborate with designers on diagrams and layouts, and implement documentation pages using AI-assisted HTML/CSS workflows.
+I write and structure documentation for complex software products, with a focus on making technical information clear, useful, and easy to navigate.
 
-> **My role throughout these projects**
->
-> - Documentation strategy & information architecture
-> - Product and developer documentation
-> - Console guides & configuration documentation
-> - Landing pages & product communication
-> - Release notes
-> - "How It Works" walkthroughs
-> - Knowledge base articles
-> - Engineering collaboration & technical validation
-> - AI-assisted HTML/CSS implementation
->
-> *Product illustrations and marketing graphics were created by the design team.*
+I also use AI-assisted workflows, HTML/CSS, and visual communication to turn technical concepts into documentation, product pages, diagrams, and web experiences.
 
----
+## Selected Work
 
-# Featured Work
+### Namirasoft Inference
 
-These projects best represent my work as a technical writer and documentation specialist.
+**Technical Documentation & Visual Communication**
 
-## Product Communication
+A 12-page technical documentation experience explaining LLM orchestration through structured writing, workflow diagrams, and visual system design.
 
-### Expert Landing Page
+### Namirasoft Inference
 
-https://namirasoft.com/expert/landing/
+**Product Website & Product Communication**
 
-**Highlights**
+Product communication for an LLM orchestration platform, from positioning and information architecture to technical feature presentation.
 
-- Planned the information hierarchy and page structure.
-- Explained complex AI capabilities for both technical and business audiences.
-- Wrote all product content.
-- Implemented and refined the page using AI-assisted HTML/CSS workflows.
+### Inference: How It Works
 
----
+**Technical Explanation & Visual Communication**
 
-## 📖 Product Walkthrough
+A visual walkthrough designed to explain how the product's orchestration layer works and how its components interact.
 
-### Expert - How It Works
+### Namirasoft Expert
 
-https://namirasoft.com/expert/how-it-works/
+**Product Communication & Web Experience**
 
-**Highlights**
-
-- Designed the complete onboarding experience.
-- Broke product workflows into clear step-by-step explanations.
-- Collaborated on workflow diagrams.
-- Connected documentation with product onboarding.
-
----
-
-## ⚙️ Console Documentation
-
-### NWS Volume Console Guide
-
-https://namirasoft.com/nws-volume/console-guide/volume/
-
-**Highlights**
-
-- Researched storage providers and their configuration requirements.
-- Documented every configuration field.
-- Added contextual guidance throughout the page.
-- Built searchable documentation for easier navigation.
-- Connected users to related documentation where appropriate.
-
----
-
-## Technical Concepts
-
-### Formula Library
-
-https://namirasoft.com/bill-watch/formula-list/
-
-**Highlights**
-
-- Simplified statistical formulas into practical explanations.
-- Added worked examples.
-- Helped users understand anomaly detection without mathematical background.
-
----
-
-## ☁️ Cloud Integration
-
-### AWS Console Guide
-
-https://namirasoft.com/bill-watch/console-guide/aws/
-
-**Highlights**
-
-- Documented AWS IAM configuration.
-- Explained required permissions.
-- Guided users through cloud integration.
-- Connected AWS concepts with product workflows.
-
----
-
-## 📝 Release Notes
+Product-focused content and web implementation for an AI product, combining technical writing, information structure, and AI-assisted HTML/CSS.
 
 ### Expert Release Notes
 
-https://namirasoft.com/release-notes/expert/
+**Product Documentation & Release Communication**
 
-**Highlights**
+Release documentation that communicates product changes clearly while keeping technical details accessible to users.
 
-- Documented product releases.
-- Summarized engineering changes.
-- Improved communication of new features.
+### Inference API
 
----
+**Developer Documentation**
 
-# Developer Setup & Integration Guides
-
-These guides help users configure third-party platforms and obtain the credentials required to integrate them with Namirasoft products.
-
-| Guide | Demonstrates |
-|-------|--------------|
-| [SSH Key Pair](https://namirasoft.com/credential/how-to-generate-ssh-key-pair/) | Cross-platform SSH key generation and authentication |
-| [AWS Access Keys](https://namirasoft.com/credential/how-to-create-aws-access-keys/) | AWS IAM users, permissions, access keys, and secret management |
-| [Azure Client & Tenant ID](https://namirasoft.com/credential/how-to-get-client-id-and-tenant-id/) | Microsoft Entra ID application registration and authentication |
-| [Telegram Chat ID](https://namirasoft.com/telegram-sender/how-to-find-chat-id-using-api/) | Telegram Bot API configuration |
-| [Slack Bot Token](https://namirasoft.com/slack-sender/how-to-get-slack-bot-token/) | Slack App creation, OAuth scopes, and bot configuration |
-| [Microsoft Teams Channel ID](https://namirasoft.com/teams-sender/how-to-get-teams-and-channel-id/) | Teams and channel configuration |
-
----
-
-# Security & Governance
-
-Selected documentation covering platform security, secrets management, privacy, and governance.
-
-- https://namirasoft.com/secret/security/
-- https://namirasoft.com/secret/console-guide/
-- https://namirasoft.com/account/privacy/
-- https://namirasoft.com/account/terms/
-
----
-
-# Product Portfolio
-
-The projects above are selected examples.
-
-Documentation has been created across the complete Namirasoft ecosystem, including AI platforms, infrastructure monitoring, cloud services, automation, identity and access management, credential management, and enterprise software.
-
-Explore all products:
-
-https://namirasoft.com/products
-
----
-
-# Documentation Process
-
-My documentation process begins before the writing starts.
-
-1. Understand the product.
-2. Explore and validate workflows.
-3. Work with engineers to confirm implementation details.
-4. Organize information into intuitive user journeys.
-5. Write and edit documentation.
-6. Collaborate with designers on layouts and diagrams.
-7. Implement pages using AI-assisted HTML/CSS workflows.
-8. Review, publish, and maintain documentation.
-
----
-
-# Technologies
-
-**Documentation**
-
-Product Documentation • Developer Documentation • Console Guides • Knowledge Bases • Release Notes • Information Architecture
-
-**Publishing**
-
-WordPress • HTML • CSS • Markdown
-
-**Collaboration**
-
-GitLab • Redmine • Engineering Collaboration • Product Research
-
-**AI Workflows**
-
-Claude • ChatGPT • AI-assisted Documentation • AI-assisted HTML/CSS
-
-**Domains**
-
-B2B SaaS • AI Platforms • Cloud Infrastructure • Identity & Access Management • APIs • Developer Tools • Cryptocurrency & Blockchain
+Developer-facing API documentation structured around the product's API and published through Scalar.
