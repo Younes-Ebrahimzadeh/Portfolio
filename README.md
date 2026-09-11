@@ -8,7 +8,7 @@ I also use AI-assisted workflows, HTML/CSS, and visual communication to turn tec
 
 ## Selected Work
 
-### [Namirasoft Inference](https://drive.google.com/file/d/1noQ3nTRgF9sfFZk4gIONQgE073NXuChQ/view?usp=sharing)
+### [Namirasoft Inference Documentation](https://drive.google.com/file/d/1noQ3nTRgF9sfFZk4gIONQgE073NXuChQ/view?usp=sharing)
 
 **Technical Documentation & Visual Communication**
 
