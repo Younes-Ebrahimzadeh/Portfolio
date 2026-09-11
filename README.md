@@ -6,40 +6,41 @@ I write and structure documentation for complex software products, with a focus 
 
 I also use AI-assisted workflows, HTML/CSS, and visual communication to turn technical concepts into documentation, product pages, diagrams, and web experiences.
 
-## Selected Work
+Selected Work
+Namirasoft Inference
 
-### Namirasoft Inference
-
-**Technical Documentation & Visual Communication**
+Technical Documentation & Visual Communication
 
 A 12-page technical documentation experience explaining LLM orchestration through structured writing, workflow diagrams, and visual system design.
 
-### Namirasoft Inference
+View the documentation →
 
-**Product Website & Product Communication**
+Namirasoft Inference
 
-Product communication for an LLM orchestration platform, from positioning and information architecture to technical feature presentation.
+Product Communication & Web Experience
 
-### Inference: How It Works
+Product communication for an LLM orchestration platform, covering product positioning, information structure, features, workflows, and technical concepts.
 
-**Technical Explanation & Visual Communication**
+Inference: How It Works
 
-A visual walkthrough designed to explain how the product's orchestration layer works and how its components interact.
+Technical Explanation & Visual Communication
 
-### Namirasoft Expert
+Visual and technical content designed to explain how the platform works and how its components fit together.
 
-**Product Communication & Web Experience**
+Namirasoft Expert
 
-Product-focused content and web implementation for an AI product, combining technical writing, information structure, and AI-assisted HTML/CSS.
+Product Communication & Web Experience
 
-### Expert Release Notes
+Product communication for an SRE AI agent, combining technical writing, information architecture, visual explanation, and AI-assisted HTML/CSS implementation.
 
-**Product Documentation & Release Communication**
+Expert: How It Works
 
-Release documentation that communicates product changes clearly while keeping technical details accessible to users.
+Product Documentation & Onboarding
 
-### Inference API
+A step-by-step technical walkthrough that guides users through connecting infrastructure, configuring an AI agent, and starting investigations.
 
-**Developer Documentation**
+Inference API Documentation
 
-Developer-facing API documentation structured around the product's API and published through Scalar.
+Developer Documentation
+
+Developer-facing API and integration documentation covering REST, Scalar, Swagger, CLI, and SDK resources.
