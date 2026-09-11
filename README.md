@@ -7,10 +7,11 @@ I write and structure documentation for complex software products, with a focus 
 I also use AI-assisted workflows, HTML/CSS, and visual communication to turn technical concepts into documentation, product pages, (animated) diagrams, and web experiences.
 
 ## Selected Work
+A selection of documentation, product communication, and technical content I've created across the Namirasoft ecosystem.
 
 ### [Namirasoft Inference Documentation](https://drive.google.com/file/d/1noQ3nTRgF9sfFZk4gIONQgE073NXuChQ/view?usp=sharing)
 
-**Technical Documentation & Visual Communication**
+**Technical Documentation**
 
 A 12-page technical documentation experience explaining LLM orchestration through structured writing, workflow diagrams, and visual system design.
 
