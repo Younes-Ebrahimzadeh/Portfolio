@@ -1,20 +1,18 @@
 # Younes Ebrahimzadeh
 
-**Technical Writer | Documentation Strategy | Product Documentation**
+**Technical Writer | Information Architecture | Product Documentation**
 
 I write and structure documentation for complex software products, with a focus on making technical information clear, useful, and easy to navigate.
 
-I also use AI-assisted workflows, HTML/CSS, and visual communication to turn technical concepts into documentation, product pages, diagrams, and web experiences.
+I also use AI-assisted workflows, HTML/CSS, and visual communication to turn technical concepts into documentation, product pages, (animated) diagrams, and web experiences.
 
 ## Selected Work
 
-### [Namirasoft Inference](https://namirasoft.com/inference/)
+### [Namirasoft Inference](https://drive.google.com/file/d/1noQ3nTRgF9sfFZk4gIONQgE073NXuChQ/view?usp=sharing)
 
 **Technical Documentation & Visual Communication**
 
 A 12-page technical documentation experience explaining LLM orchestration through structured writing, workflow diagrams, and visual system design.
-
-[View the documentation →](https://drive.google.com/file/d/1noQ3nTRgF9sfFZk4gIONQgE073NXuChQ/view?usp=sharing)
 
 ---
 
@@ -26,7 +24,7 @@ Product communication for an LLM orchestration platform, covering product positi
 
 ---
 
-### [Inference: How It Works](https://namirasoft.com/inference/)
+### [Inference: How It Works](https://namirasoft.com/inference/how-it-works)
 
 **Technical Explanation & Visual Communication**
 
@@ -34,7 +32,7 @@ Visual and technical content designed to explain how the platform works and how 
 
 ---
 
-### [Namirasoft Expert](https://namirasoft.com/expert/)
+### [Namirasoft Expert](https://namirasoft.com/expert/landing)
 
 **Product Communication & Web Experience**
 
@@ -42,11 +40,11 @@ Product communication for an SRE AI agent, combining technical writing, informat
 
 ---
 
-### [Expert: How It Works](https://namirasoft.com/expert/how-it-works/)
+### [Namirasoft Expert Release Notes](https://namirasoft.com/release-notes/expert/)
 
-**Product Documentation & Onboarding**
+**Product Documentation & Release Communication**
 
-A step-by-step technical walkthrough that guides users through connecting infrastructure, configuring an AI agent, and starting investigations.
+Release documentation that communicates product updates, improvements, and technical changes clearly for users.
 
 ---
 
