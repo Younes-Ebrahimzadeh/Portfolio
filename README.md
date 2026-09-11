@@ -24,7 +24,7 @@ Product communication for an LLM orchestration platform, covering product positi
 
 ---
 
-### [Inference: How It Works](https://namirasoft.com/inference/how-it-works)
+### [How Inference Works](https://namirasoft.com/inference/how-it-works)
 
 **Technical Explanation & Visual Communication**
 
